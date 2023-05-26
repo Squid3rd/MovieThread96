@@ -1,2 +1,2 @@
 # MovieThread96
-- Movie Web App Using a React Native (Newbie)
+- Movie Web App Using a React + Tailwind (Newbie)
